@@ -73,7 +73,7 @@ export default function Header() {
           className={`h-4 cursor-pointer ${
             isResponsive ? 'block z-10 opacity-25' : 'hidden'
           }`}
-          src="./src/assets/icon-hamburger.svg"
+          src="./icon-hamburger.svg"
           alt="Icono hamburguesa"
           onClick={handleMenuClick}
         />
