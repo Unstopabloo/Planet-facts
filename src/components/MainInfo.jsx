@@ -47,7 +47,7 @@ export default function MainInfo({ image, title, info, source }) {
                 Wikipedia{' '}
                 <img
                   className="inline ps-1"
-                  src="./src/assets/icon-source.svg"
+                  src="./icon-source.svg"
                   alt="Source Icon"
                 />
               </a>

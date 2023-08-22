@@ -8,7 +8,7 @@
 }
 
 #root {
-  background-image: url('./background-stars.svg');
+  background-image: url('../background-stars.svg');
   background-color: var(--primary);
   background-position: center;
   background-repeat: no-repeat;
