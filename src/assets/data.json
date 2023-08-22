@@ -18,15 +18,15 @@
     "radius": "2,439.7 KM",
     "temperature": "430°c",
     "images": {
-      "planet": "./src/assets/planet-mercury.svg",
-      "internal": "../src/assets/planet-mercury-internal.svg",
-      "geology": "../src/assets/geology-mercury.png"
+      "planet": "./planet-mercury.svg",
+      "internal": "./planet-mercury-internal.svg",
+      "geology": "./geology-mercury.png"
     }
   },
   {
     "name": "Venus",
     "overview": {
-      "content": "Venus is the second planet from the Sun. It is named after the Roman goddess of love and beauty. As the brightest natural object in Earth's night sky after the Moon, Venus can cast shadows and can be, on rare occasions, visible to the naked eye in broad daylight.",
+      "content": "Venus is the second planet from the Sun. It is named after the Roman goddess of love and beauty. As the brightest natural object in Earth's niht sky after the Moon, Venus can cast shadows and can be, on rare occasions, visible to the naked eye in broad daylight.",
       "source": "https://en.wikipedia.org/wiki/Venus"
     },
     "structure": {
@@ -42,9 +42,9 @@
     "radius": "6,051.8 KM",
     "temperature": "471°c",
     "images": {
-      "planet": "./src/assets/planet-venus.svg",
-      "internal": "../src/assets/planet-venus-internal.svg",
-      "geology": "../src/assets/geology-venus.png"
+      "planet": "/planet-venus.svg",
+      "internal": "./planet-venus-internal.svg",
+      "geology": "./geology-venus.png"
     }
   },
   {
@@ -66,9 +66,9 @@
     "radius": "6,371 KM",
     "temperature": "16°c",
     "images": {
-      "planet": "./src/assets/planet-earth.svg",
-      "internal": "../src/assets/planet-earth-internal.svg",
-      "geology": "../src/assets/geology-earth.png"
+      "planet": "./planet-earth.svg",
+      "internal": "./planet-earth-internal.svg",
+      "geology": "./geology-earth.png"
     }
   },
   {
@@ -90,9 +90,9 @@
     "radius": "3,389.5 KM",
     "temperature": "-28°c",
     "images": {
-      "planet": "./src/assets/planet-mars.svg",
-      "internal": "../src/assets/planet-mars-internal.svg",
-      "geology": "../src/assets/geology-mars.png"
+      "planet": "./planet-mars.svg",
+      "internal": "./planet-mars-internal.svg",
+      "geology": "../geology-mars.png"
     }
   },
   {
@@ -114,9 +114,9 @@
     "radius": "69,911 KM",
     "temperature": "-108°c",
     "images": {
-      "planet": "./src/assets/planet-jupiter.svg",
-      "internal": "../src/assets/planet-jupiter-internal.svg",
-      "geology": "../src/assets/geology-jupiter.png"
+      "planet": "../planet-jupiter.svg",
+      "internal": "./planet-jupiter-internal.svg",
+      "geology": "./geology-jupiter.png"
     }
   },
   {
@@ -135,12 +135,12 @@
     },
     "rotation": "10.8 Hours",
     "revolution": "29.46 Years",
-    "radius": "58,232 KM",
+    "radius": "58,232. KM",
     "temperature": "-138°c",
     "images": {
-      "planet": "./src/assets/planet-saturn.svg",
-      "internal": "../src/assets/planet-saturn-internal.svg",
-      "geology": "../src/assets/geology-saturn.png"
+      "planet": "./planet-saturn.svg",
+      "internal": "./planet-saturn-internal.svg",
+      "geology": "./geology-saturn.png"
     }
   },
   {
@@ -162,9 +162,9 @@
     "radius": "25,362 KM",
     "temperature": "-195°c",
     "images": {
-      "planet": "./src/assets/planet-uranus.svg",
-      "internal": "../src/assets/planet-uranus-internal.svg",
-      "geology": "../src/assets/geology-uranus.png"
+      "planet": "./planet-uranus.svg",
+      "internal": "./planet-uranus-internal.svg",
+      "geology": "./geology-uranus.png"
     }
   },
   {
@@ -186,9 +186,9 @@
     "radius": "24,622 KM",
     "temperature": "-201°c",
     "images": {
-      "planet": "./src/assets/planet-neptune.svg",
-      "internal": "../src/assets/planet-neptune-internal.svg",
-      "geology": "../src/assets/geology-neptune.png"
+      "planet": "./planet-neptune.svg",
+      "internal": "./planet-neptune-internal.svg",
+      "geology": "./geology-neptune.png"
     }
   }
 ]
